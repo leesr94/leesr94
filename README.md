@@ -1,5 +1,7 @@
 # LEE SORA
 
+<br><br>
+
 <div align=center>
 
 ## Skill 🔧
