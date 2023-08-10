@@ -37,7 +37,7 @@
 
 <br>
 
-## contact 📱
+## Contact 📱
 
 <div style="display: flex; flex-direction: row;">
   <a href="mailto:sr940718@gmail.com">
