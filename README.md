@@ -11,7 +11,16 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/html-E34F26?style=plastic-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic-square&logo=html5&logoColor=white">
+</div>
+
+<br>
+
+## Learning 📝
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=plastic-square&logo=amazonaws&logoColor=white">
 </div>
 
 <br>
