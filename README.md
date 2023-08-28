@@ -35,6 +35,8 @@
   </a>
 </div>
 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=mogwa-sitter&theme=default)](https://mogwa-sitter.tistory.com/)
+
 <br>
 
 ## Contact 📱
