@@ -35,8 +35,6 @@
   </a>
 </div>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=mogwa-sitter&theme=default)](https://mogwa-sitter.tistory.com/)
-
 <br>
 
 ## Contact 📱
@@ -49,6 +47,7 @@
 
 <br><br><br>
 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=mogwa-sitter&theme=default)](https://mogwa-sitter.tistory.com/)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leesr94&show_icons=true&theme=graywhite)
 
 </div>
