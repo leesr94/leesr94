@@ -25,18 +25,6 @@
 
 <br>
 
-## Log ⌨️
-<div style="display: flex; flex-direction: row;">
-  <a href="https://mogwa-sitter.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=plastic-square&logo=Tistory&logoColor=white">
-  </a>
-  <a href="https://www.notion.so/lsr94/b7607add482d4de89eb9cec0d6e5db2a?pvs=4">
-    <img src="https://img.shields.io/badge/Notion-9999FF?style=plastic-square&logo=Notion&logoColor=white">
-  </a>
-</div>
-
-<br>
-
 ## Contact 📱
 
 <div style="display: flex; flex-direction: row;">
