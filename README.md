@@ -38,7 +38,6 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=solll)](https://solved.ac/solll)
 
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=mogwa-sitter&theme=default)](https://mogwa-sitter.tistory.com/)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leesr94&show_icons=true&theme=graywhite)
 
 </div>
